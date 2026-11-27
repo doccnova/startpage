@@ -34,31 +34,31 @@ const default_config = {
         name: "Social Media",
         links: [
           {
-            name: " mastodon",
+            name: "  mastodon",
             url: "https://mastodon.social",
             icon: "",
             icon_color: "#6F00FF",
           },
           {
-            name: " vk",
+            name: "  vk",
             url: "https://vk.com/feed",
             icon: "",
             icon_color: "#7daea3",
           },
           {
-            name: "󰑍 reddit",
+            name: "󰑍  reddit",
             url: "https://www.reddit.com/",
-            icon: "brand-reddit",
+            icon: "",
             icon_color: "#e78a4e",
           },
           {
-            name: " youtube",
+            name: "  youtube",
             url: "https://www.youtube.com/",
             icon: "",
             icon_color: "#ea6962",
           },
           {
-            name: " twitch",
+            name: "  twitch",
             url: "https://www.twitch.tv/",
             icon: "",
             icon_color: "#d3869b",
@@ -68,13 +68,13 @@ const default_config = {
         name: "Video",
         links: [
           {
-            name: " odysee",
+            name: "  odysee",
             url: "https://odysee.com/",
             icon: "",
             icon_color: "#FF6600",
           },
           {
-            name: "󰟥 piped",
+            name: "󰟥  piped",
             url: "https://piped.ducks.party/",
             icon: "",
             icon_color: "#7daea3",
@@ -90,7 +90,7 @@ const default_config = {
           name: "inspiration",
           links: [
             {
-              name: " pinterest",
+              name: "  pinterest",
               url: "https://www.pinterest.es/",
               icon: "",
               icon_color: "#ea6962",
@@ -101,19 +101,19 @@ const default_config = {
           name: "resources",
           links: [
             {
-              name: "󰴱 colorhunt",
+              name: "󰴱  colorhunt",
               url: "https://colorhunt.co/",
               icon: "",
               icon_color: "#ea6962",
             },
             {
-              name: " chromora",
+              name: "  chromora",
               url: "https://color.adobe.com/ru/create/color-wheel",
               icon: "",
               icon_color: "#7daea3",
             },
             {
-              name: " terminalsexy",
+              name: "  terminalsexy",
               url: "https://terminal.sexy",
               icon: "",
               icon_color: "#e78a4e",
@@ -124,7 +124,7 @@ const default_config = {
           name: "resources 3d",
           links: [
             {
-              name: "󰟽 thingiverse",
+              name: "󰟽  thingiverse",
               url: "https://www.thingiverse.com/",
               icon: "",
               icon_color: "#7daea3",
@@ -141,19 +141,19 @@ const default_config = {
           name: "repositories",
           links: [
             {
-              name: " github",
+              name: "  github",
               url: "https://github.com/",
               icon: "",
               icon_color: "#7daea3",
             },
             {
-              name: " gitea",
+              name: "  gitea",
               url: "https://gitea.com/",
               icon: "",
               icon_color: "#00FF91",
             },
             {
-              name: " codeberg",
+              name: "  codeberg",
               url: "https://codeberg.org",
               icon: "",
               icon_color: "#0D65FF"
@@ -164,19 +164,19 @@ const default_config = {
           name: "resources",
           links: [
             {
-              name: " qml",
+              name: "  qml",
               url: "https://doc.qt.io/qt-6/qml-tutorial.html",
               icon: "",
               icon_color: "#7daea3",
             },
             {
-              name: " quickshell",
+              name: "  quickshell",
               url: "https://quickshell.org/docs",
               icon: "",
               icon_color: "#ea6962",
             },
             {
-              name: " epam",
+              name: "  epam",
               url: "https://learn.epam.com/",
               icon: "",
               icon_color: "#7daea3",
@@ -193,13 +193,13 @@ const default_config = {
           name: "mail",
           links: [
             {
-              name: " tuta",
+              name: "  tuta",
               url: "https://app.tuta.com",
               icon: "",
               icon_color: "#ea6962",
             },
             {
-              name: " proton",
+              name: "  proton",
               url: "https://mail.proton.me/",
               icon: "",
               icon_color: "#6F00FF"
