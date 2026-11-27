@@ -307,6 +307,4 @@ const CONFIG = new Config(saved_config ?? default_config);
   css.href = 'src/css/tabler-icons.min.css';
   css.rel = 'stylesheet';
   css.type = 'text/css';
-  if (!CONFIG.config.localIcons)
-    document.getElementsByTagName('head')[0].appendChild(css);
 })();
